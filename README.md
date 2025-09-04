@@ -30,5 +30,5 @@ A **Task Manager app** with a pastel-themed UI, designed to help you **add, trac
 
 1. **Clone the repository**
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/nimra-ijaz1/Task_Manager-App.git
 cd taskmanagerapp
